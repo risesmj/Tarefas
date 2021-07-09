@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\c66ebded51c9a5c17e3088b626989b3b1b08fc49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbd195c62d730dca38d7a7e6742cf71b87868851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_484a6dcce1f780561ee5ec19d58596a0e67b3f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\3c95760fd2ec88923fe53cb41447c72eb51dd7de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c934ea2684d81732448cbc32d23e6534f85ea175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\f6c78658b86653b279dd88bbef8f14455677f2ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_376f210efb3e8604d7f64d9743f7e108eaaa7463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\03f59e8f64244fd1d8e72e2eaca3a36b812c6eb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ca0b5e65d872b847f137ae2d1b0436768f97a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aeccb67d0a7f44d8d50c1ff440db9fbf4605deae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\5e3ac93fe684d230bfdf902323e8298a4a724767\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0f5beea1c8ad7da5bdb1c4dda4e82f8714ce3cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\da55094a585b8f255811e2b46db2a1d0e8ba1d30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34084adedb603a7917e1ab53e282a009c4951af3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\67b5b0abba53572a7f5f5f43b927c9cd78407bac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_317f1228f107ec44f3a834e794114156e227af50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\b63edb17512453a863e3d6d855e226ded0715bb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68770fffc53426523637e2169eb236cb7d8bb94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\3dcbdf8c1ad82df1343f6fb1535703bbdb5df687\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_117810c5eb6ea0a9af6131a5d6d9fd8bb3832bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="11cc7333ed452b7d1415dcebabf92322b10db059">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25f012a4a8a904de3a7544689714a6c19d8f1f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJ\.android\build-cache\94f761b319eccd1ee1d293051340560efa202185\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\Downloads\SQLite\Tarefas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8b486d91ba0891f2b493a5557f8cee92adb6044\classes.dex" />
+    </item>
+
+</items>

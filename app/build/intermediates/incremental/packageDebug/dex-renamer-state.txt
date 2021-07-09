@@ -1,0 +1,7 @@
+#Sun Aug 27 17:55:45 BRT 2017
+base.0=C\:\\Users\\MJ\\Downloads\\SQLite\\Tarefas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aeccb67d0a7f44d8d50c1ff440db9fbf4605deae
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MJ\\Downloads\\SQLite\\Tarefas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25f012a4a8a904de3a7544689714a6c19d8f1f03\\classes.dex
+base.1=C\:\\Users\\MJ\\Downloads\\SQLite\\Tarefas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25f012a4a8a904de3a7544689714a6c19d8f1f03
+file.0=C\:\\Users\\MJ\\Downloads\\SQLite\\Tarefas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aeccb67d0a7f44d8d50c1ff440db9fbf4605deae\\classes.dex
